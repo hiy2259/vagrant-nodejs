@@ -18,6 +18,10 @@ Node.js 개발 환경 공유
 * **Vagrant 다운로드 및 설치**
     * http://downloads.vagrantup.com/
 
+* **최종 확인 버전**
+    * Oracle VM VirtualBox: 4.3.24
+    * Vagrant: 1.7.2
+
 ### 폴더 생성 및 <code>git clone</code>
 * 작업공간 폴더를 생성합니다. (ex) workspace)
 * 생성한 폴더에 소스코드를 압축파일로 다운 받거나 ```git clone``` 합니다.
